@@ -17,7 +17,7 @@ const Header = () => {
     <header className="fixed top-0 left-0 right-0 z-50 bg-card/90 backdrop-blur-md border-b border-border">
       <div className="container mx-auto flex items-center justify-between py-4 px-4">
         <a href="#inicio" className="flex items-center gap-2">
-          <TreePine className="h-8 w-8 text-primary" />
+          <img src={logo} alt="APROMEL" className="h-10 w-10 object-contain" />
           <span className="font-heading text-xl font-bold text-foreground">APROMEL</span>
         </a>
 
