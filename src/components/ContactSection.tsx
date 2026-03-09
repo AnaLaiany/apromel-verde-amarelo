@@ -32,6 +32,16 @@ const ContactSection = () => {
             </div>
           </div>
 
+          <div className="flex items-center gap-4">
+            <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center flex-shrink-0">
+              <MapPin className="h-5 w-5 text-primary" />
+            </div>
+            <div>
+              <p className="font-body text-sm text-muted-foreground">Endereço</p>
+              <p className="font-body font-medium text-foreground">R. Potengy, Q. 3 - L. 28, S/N - Chácara Benvinda, Valparaíso de Goiás - GO, 72875-160</p>
+            </div>
+          </div>
+
         </div>
       </div>
     </section>);
