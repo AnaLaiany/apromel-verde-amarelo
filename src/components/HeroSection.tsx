@@ -17,7 +17,7 @@ const HeroSection = () => {
           APROMEL
         </h1>
         <p className="font-body text-lg md:text-xl text-primary-foreground/90 mb-8 leading-relaxed">
-          Associação de Produtores e Moradores do Setor de Chácaras — unidos por uma comunidade mais forte e organizada.
+          Associação Pro-Melhoramento dos setores de chácaras Benvinda, Brasil, Santa Maria, Santa Marina de Valparaíso de Goiás.
         </p>
         <a
           href="#editais"
