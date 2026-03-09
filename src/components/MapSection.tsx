@@ -6,6 +6,7 @@ import {
   CarouselNext,
   CarouselPrevious,
 } from "@/components/ui/carousel";
+import mapa1 from "@/assets/mapa-1.png";
 import mapa2 from "@/assets/mapa-2.png";
 
 const mapImages = [
