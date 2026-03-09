@@ -6,9 +6,10 @@ import {
   CarouselNext,
   CarouselPrevious,
 } from "@/components/ui/carousel";
+import mapa1 from "@/assets/mapa-1.png";
 
 const mapImages = [
-  { src: "/placeholder.svg", alt: "Mapa do Setor 1" },
+  { src: mapa1, alt: "Mapa do Setor 1" },
   { src: "/placeholder.svg", alt: "Mapa do Setor 2" },
   { src: "/placeholder.svg", alt: "Mapa do Setor 3" },
 ];
