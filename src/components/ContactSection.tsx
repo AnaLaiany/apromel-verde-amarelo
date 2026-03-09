@@ -38,7 +38,7 @@ const ContactSection = () => {
             </div>
             <div>
               <p className="font-body text-sm text-muted-foreground">R. Potengy, Q. 3 - L. 28, S/N - Chácara Benvinda, Valparaíso de Goiás - GO, 72875-160</p>
-              <p className="font-body font-medium text-foreground">Setor de Chácaras — DF</p>
+              
             </div>
           </div>
         </div>
