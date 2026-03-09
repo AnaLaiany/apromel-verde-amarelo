@@ -15,7 +15,7 @@ const photos = [
   { src: gallery6, alt: "Plantio de mudas pela comunidade" },
 ];
 
-const INSTAGRAM_URL = "https://www.instagram.com/apromel2001";
+const INSTAGRAM_URL = "https://www.instagram.com/apromel.oficial";
 
 const GallerySection = () => {
   return (
