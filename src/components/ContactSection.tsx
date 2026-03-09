@@ -18,7 +18,7 @@ const ContactSection = () => {
             </div>
             <div>
               <p className="font-body text-sm text-muted-foreground">E-mail</p>
-              <p className="font-body font-medium text-foreground">contato@apromel.org.br</p>
+              <p className="font-body font-medium text-foreground">apromelpromelhoramento24@gmail.com</p>
             </div>
           </div>
 
