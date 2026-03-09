@@ -28,8 +28,7 @@ const ContactSection = () => {
             </div>
             <div>
               <p className="font-body text-sm text-muted-foreground">Telefone</p>
-              <p className="font-body font-medium text-foreground">
-</p>
+              <p className="font-body font-medium text-foreground">61 996708439</p>
             </div>
           </div>
 
