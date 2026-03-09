@@ -52,6 +52,13 @@ const MapSection = () => {
             </div>
           ))}
         </div>
+
+        <div className="mt-6 flex items-center gap-3 bg-card rounded-lg p-4 border border-border max-w-xl mx-auto">
+          <MapPin className="h-5 w-5 text-primary shrink-0" />
+          <p className="font-body text-sm text-foreground">
+            R. Potengy, Q. 3 - L. 28, S/N - Chácara Benvinda, Valparaíso de Goiás - GO, 72875-160
+          </p>
+        </div>
       </div>
     </section>
   );
