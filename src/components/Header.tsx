@@ -1,5 +1,6 @@
 import { useState } from "react";
-import { Menu, X, TreePine } from "lucide-react";
+import { Menu, X } from "lucide-react";
+import logo from "@/assets/logo.png";
 
 const navItems = [
   { label: "Início", href: "#inicio" },
