@@ -28,7 +28,8 @@ const ContactSection = () => {
             </div>
             <div>
               <p className="font-body text-sm text-muted-foreground">Telefone</p>
-              <p className="font-body font-medium text-foreground">(61) 9 0000-0000</p>
+              <p className="font-body font-medium text-foreground">
+</p>
             </div>
           </div>
 
@@ -37,14 +38,13 @@ const ContactSection = () => {
               <MapPin className="h-5 w-5 text-primary" />
             </div>
             <div>
-              <p className="font-body text-sm text-muted-foreground">Endereço</p>
+              <p className="font-body text-sm text-muted-foreground">R. Potengy, Q. 3 - L. 28, S/N - Chácara Benvinda, Valparaíso de Goiás - GO, 72875-160</p>
               <p className="font-body font-medium text-foreground">Setor de Chácaras — DF</p>
             </div>
           </div>
         </div>
       </div>
-    </section>
-  );
+    </section>);
 };
 
 export default ContactSection;
