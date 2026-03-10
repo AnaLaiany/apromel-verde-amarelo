@@ -8,11 +8,18 @@ import {
 } from "@/components/ui/carousel";
 import mapa1 from "@/assets/mapa-1.png";
 import mapa2 from "@/assets/mapa-2.png";
+import mapa3 from "@/assets/mapa-3.png";
+import mapa4 from "@/assets/mapa-4.png";
+import mapa5 from "@/assets/mapa-5.png";
+import mapa6 from "@/assets/mapa-6.png";
 
 const mapImages = [
   { src: mapa1, alt: "Mapa do Setor 1" },
   { src: mapa2, alt: "Mapa Sucupira" },
-  { src: "/placeholder.svg", alt: "Mapa do Setor 3" },
+  { src: mapa3, alt: "Mapa Chácaras Santa Maria" },
+  { src: mapa4, alt: "Mapa Chácaras Brasil" },
+  { src: mapa5, alt: "Mapa Chácaras Bem Vindas (Parte 1)" },
+  { src: mapa6, alt: "Mapa Chácaras Bem Vindas (Parte 2)" },
 ];
 
 const MapSection = () => {
