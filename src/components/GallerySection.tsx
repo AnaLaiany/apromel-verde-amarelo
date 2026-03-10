@@ -7,12 +7,12 @@ import gallery5 from "@/assets/gallery-5.jpg";
 import gallery6 from "@/assets/gallery-6.jpg";
 
 const photos = [
-  { src: gallery1, alt: "Reunião da comunidade ao ar livre" },
-  { src: gallery2, alt: "Estradas do setor de chácaras" },
-  { src: gallery3, alt: "Assembleia dos moradores" },
-  { src: gallery4, alt: "Chácaras e pomares da região" },
-  { src: gallery5, alt: "Festa comunitária" },
-  { src: gallery6, alt: "Plantio de mudas pela comunidade" },
+  { src: gallery1, alt: "Moradores da comunidade" },
+  { src: gallery2, alt: "Reunião dos moradores" },
+  { src: gallery3, alt: "Encontro com representantes" },
+  { src: gallery4, alt: "Apresentação em auditório" },
+  { src: gallery5, alt: "Assembleia da comunidade" },
+  { src: gallery6, alt: "Reunião comunitária" },
 ];
 
 const INSTAGRAM_URL = "https://www.instagram.com/apromel2001";
