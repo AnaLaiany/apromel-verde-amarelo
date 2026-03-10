@@ -20,10 +20,10 @@ const HeroSection = () => {
           Associação Pro-Melhoramento dos setores de chácaras Benvinda, Brasil, Santa Maria, Santa Marina de Valparaíso de Goiás.
         </p>
         <a
-          href="#editais"
+          href="#sobre"
           className="inline-block bg-secondary text-secondary-foreground font-body font-semibold px-8 py-3 rounded-lg hover:opacity-90 transition-opacity"
         >
-          Ver Editais
+          Saiba Mais
         </a>
       </div>
     </section>
